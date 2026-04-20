@@ -6,4 +6,9 @@ public :
     string nama;
     int jumlah;
     string kategori;
+    string tanggalProduksi;
+
+    void printData(){
+        
+    }
 }
